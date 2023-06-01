@@ -3,7 +3,7 @@
 //  Clima
 //
 //  Created by Brian Chukwuisiocha on 5/30/23.
-//  Copyright © 2023 App Brewery. All rights reserved.
+//  
 //
 
 import Foundation
